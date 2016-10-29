@@ -67,6 +67,6 @@ Margin of Error: In this course we will study how Artificial Intelligence unders
 
 “I’m increasingly inclined to think that there should be some regulatory oversight, maybe at the national and international level, just to make sure that we don’t do something very foolish.” - Elon Musk.
 
-#BlackLivesMatter: In this course we will trace how the movement grew on Twitter. We will answer questions such as: How does online activism lead to offline justice? How do social networks connect people and ideas? How have smartphones made activism viral? (Network theory, Social network, database infrastructure, Full-stack web development)
+BlackLivesMatter: In this course we will trace how the movement grew on Twitter. We will answer questions such as: How does online activism lead to offline justice? How do social networks connect people and ideas? How have smartphones made activism viral? (Network theory, Social network, database infrastructure, Full-stack web development)
 
 “BLM's high visibility and success in eliciting elite responses have positioned it at the center of the national conversation on police misconduct.” - Deen Freelon, Charlton D. McIlwain, and Meredith D. Clark.
