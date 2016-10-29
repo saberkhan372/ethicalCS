@@ -37,11 +37,11 @@ The following courses are intended to be offered year-long and meet twice a week
 
 * CS Literature - In this course we will use non-fiction books to learn about the history of computing and its contemporary state of innovation. In particular we will look at how the different government projects lead to the birth of modern computing and how it evolved into a massive industry that touches on many part of modern life via Walter Isaacson’s The Innovators. In the second semester we will study how the US waged a clandestine war against the Iranian nuclear program via Kim Zetter’s Countdown to Zero Day. (Innovation, Computing History, Transistors, Binary, Boolean logic, circuits, personal computer, internet, viruses, malware, reverse engineering)
  
-“When it comes to computers, there is one other historical figure, not as well known, who embodied the combination of arts and the sciences. Like her famous father, she understood the romance of poetry. Unlike him, she also saw the romance of math and machinery. That is where our story begins.” - Walter Isaacson.
+> “When it comes to computers, there is one other historical figure, not as well known, who embodied the combination of arts  > and the sciences. Like her famous father, she understood the romance of poetry. Unlike him, she also saw the romance of math > and machinery. That is where our story begins.” - Walter Isaacson.
 
 “In January 2010, inspectors with the International Atomic Energy Agency noticed that centrifuges at an Iranian uranium enrichment plant were failing at an unprecedented rate. The cause was a complete mystery—apparently as much to the technicians replacing the centrifuges as to the inspectors observing them.” - Kim Zetter. 
 
------
+
 
 * Secrets and War: The first computers were built during World War Two to aid the Allies in breaking secret codes. In this course we will use the lens of cryptography to study the development of modern computing. We will study ancient ciphers, how they are deciphered and trace the history of the first computers used to break code. Then we will look at modern encryption keeps the internet secure and when it fails. (Information security, ciphers, encryption, decryption, algorithm, sorting, libraries, Python, C, blockchain, bitcoin)
         
