@@ -18,7 +18,7 @@ Add additional course offerings
 
 =====
 
-### Possible Course
+### Possible Courses
 
 > “Software is eating the world.” - Marc Andreessen 
 
