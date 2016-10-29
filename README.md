@@ -18,18 +18,18 @@ Add additional course offerings
 
 =====
 
-## Computer Science Electives Designed to Foster Ethical Innovation
+### Possible Course
 
-“Software is eating the world.” - Marc Andreessen 
+> “Software is eating the world.” - Marc Andreessen 
 
-“Will robots inherit the earth? Yes, but they will be our children. We owe our minds to the deaths and lives of all the creatures that were ever engaged in the struggle called Evolution. Our job is to see that all this work shall not end up in meaningless waste.” - Marvin Minsky
+> “Will robots inherit the earth? Yes, but they will be our children. We owe our minds to the deaths and lives of all the creatures that were ever engaged in the struggle called Evolution. Our job is to see that all this work shall not end up in meaningless waste.” - Marvin Minsky
 
-“I'm afraid that the following syllogism may be used by some in the future.
-Turing believes machines think
-Turing lies with men
-Therefore machines do not think
-Yours in distress,
-Alan”  - Alan Turing
+> “I'm afraid that the following syllogism may be used by some in the future.
+> Turing believes machines think
+> Turing lies with men
+> Therefore machines do not think
+> Yours in distress,
+> Alan”  - Alan Turing
 
 The following series of courses use a single event or action, a lawsuit, a device, a data breach, etc., to explore an area of computer science.Through these lenses we can learn the history, persons, and technologies that have helped create the modern world. We hope that you take one of these courses and fall in love with power and complexity of CS and take further courses in the department.  Courses are intended to be taken
 
