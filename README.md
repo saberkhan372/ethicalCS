@@ -35,38 +35,38 @@ The following series of courses use a single event or action, a lawsuit, a devic
 
 The following courses are intended to be offered year-long and meet twice a week. 
 
-CS Literature - In this course we will use non-fiction books to learn about the history of computing and its contemporary state of innovation. In particular we will look at how the different government projects lead to the birth of modern computing and how it evolved into a massive industry that touches on many part of modern life via Walter Isaacson’s The Innovators. In the second semester we will study how the US waged a clandestine war against the Iranian nuclear program via Kim Zetter’s Countdown to Zero Day. (Innovation, Computing History, Transistors, Binary, Boolean logic, circuits, personal computer, internet, viruses, malware, reverse engineering)
+1. CS Literature - In this course we will use non-fiction books to learn about the history of computing and its contemporary state of innovation. In particular we will look at how the different government projects lead to the birth of modern computing and how it evolved into a massive industry that touches on many part of modern life via Walter Isaacson’s The Innovators. In the second semester we will study how the US waged a clandestine war against the Iranian nuclear program via Kim Zetter’s Countdown to Zero Day. (Innovation, Computing History, Transistors, Binary, Boolean logic, circuits, personal computer, internet, viruses, malware, reverse engineering)
  
 “When it comes to computers, there is one other historical figure, not as well known, who embodied the combination of arts and the sciences. Like her famous father, she understood the romance of poetry. Unlike him, she also saw the romance of math and machinery. That is where our story begins.” - Walter Isaacson.
 
 “In January 2010, inspectors with the International Atomic Energy Agency noticed that centrifuges at an Iranian uranium enrichment plant were failing at an unprecedented rate. The cause was a complete mystery—apparently as much to the technicians replacing the centrifuges as to the inspectors observing them.” - Kim Zetter. 
 
-Secrets and War: The first computers were built during World War Two to aid the Allies in breaking secret codes. In this course we will use the lens of cryptography to study the development of modern computing. We will study ancient ciphers, how they are deciphered and trace the history of the first computers used to break code. Then we will look at modern encryption keeps the internet secure and when it fails. (Information security, ciphers, encryption, decryption, algorithm, sorting, libraries, Python, C, blockchain, bitcoin)
+2. Secrets and War: The first computers were built during World War Two to aid the Allies in breaking secret codes. In this course we will use the lens of cryptography to study the development of modern computing. We will study ancient ciphers, how they are deciphered and trace the history of the first computers used to break code. Then we will look at modern encryption keeps the internet secure and when it fails. (Information security, ciphers, encryption, decryption, algorithm, sorting, libraries, Python, C, blockchain, bitcoin)
         
 “I tried to tell Bletchley Park what my ideas were, but you must understand the technology that I was using was then only just known to very few people in the whole world.” - Thomas H. Flowers. 
 
 The following course are semester-long and should be combined to create a year-long course.
 
-Glitch and Generative Art: Can computers make art? Can they make art on purpose? By mistake? The answer is YES and it looks great! In this course we will use to code to remix existing art, make new pieces, and create pieces that are accidental or depend on the actions of an user. (Processing, HTML, CSS, JavaScript, p5.js)
+3. Glitch and Generative Art: Can computers make art? Can they make art on purpose? By mistake? The answer is YES and it looks great! In this course we will use to code to remix existing art, make new pieces, and create pieces that are accidental or depend on the actions of an user. (Processing, HTML, CSS, JavaScript, p5.js)
 
 “It’s such a great thing. I’ve always wanted to be Walt Disney. I’m gonna tell everyone to get one.” - Andy Warhol.
 
-Amazon Echo Teardown: We will try to answer questions such as: How does the hardware and software work? What does it mean for the future of tech? Should we trust it and Amazon? (approximate computing, architecture, privacy, knowledge systems, wireless sniffing, voice recognition)
+4. Amazon Echo Teardown: We will try to answer questions such as: How does the hardware and software work? What does it mean for the future of tech? Should we trust it and Amazon? (approximate computing, architecture, privacy, knowledge systems, wireless sniffing, voice recognition)
 
 “The Amazon Echo is the first smart consumer electronics product since the smartphone that’s poised to become a daily habit for millions” - Anil Dash.
 
-Google vs Oracle: We will use this case to explore what Application Program interface, APIs, are, how open-source works, and how law and tech interact. (Application Program interface, Java, Android, open-source, copyright)
+5. Google vs Oracle: We will use this case to explore what Application Program interface, APIs, are, how open-source works, and how law and tech interact. (Application Program interface, Java, Android, open-source, copyright)
 
 “In a world where Silicon Valley is coming into dominance, Oracle v. Google is an unusual instance in which the nerds are getting totally owned by the normals.” - Sarah Jeong.
 
-Snowden File: How do computer networks support surveillance? How is data stored? How did it get leaked? How do the courts and the law control these systems? (Encryption, surveillance, data systems, metadata, law and government)
+6. Snowden File: How do computer networks support surveillance? How is data stored? How did it get leaked? How do the courts and the law control these systems? (Encryption, surveillance, data systems, metadata, law and government)
 
 “The document shows for the first time that under the Obama administration the communication records of millions of US citizens are being collected indiscriminately and in bulk – regardless of whether they are suspected of any wrongdoing.” - Glenn Greenwald.
 
-Margin of Error: In this course we will study how Artificial Intelligence understands and interacts with the world. We will seeks answers to questions such as: how does AI see the world? What can it do? How do we control it? What amount of error is acceptable? (Algorithms, Data structures, Risk modeling, Computer vision, Autonomous drones)
+7. Margin of Error: In this course we will study how Artificial Intelligence understands and interacts with the world. We will seeks answers to questions such as: how does AI see the world? What can it do? How do we control it? What amount of error is acceptable? (Algorithms, Data structures, Risk modeling, Computer vision, Autonomous drones)
 
 “I’m increasingly inclined to think that there should be some regulatory oversight, maybe at the national and international level, just to make sure that we don’t do something very foolish.” - Elon Musk.
 
-BlackLivesMatter: In this course we will trace how the movement grew on Twitter. We will answer questions such as: How does online activism lead to offline justice? How do social networks connect people and ideas? How have smartphones made activism viral? (Network theory, Social network, database infrastructure, Full-stack web development)
+8. BlackLivesMatter: In this course we will trace how the movement grew on Twitter. We will answer questions such as: How does online activism lead to offline justice? How do social networks connect people and ideas? How have smartphones made activism viral? (Network theory, Social network, database infrastructure, Full-stack web development)
 
 “BLM's high visibility and success in eliciting elite responses have positioned it at the center of the national conversation on police misconduct.” - Deen Freelon, Charlton D. McIlwain, and Meredith D. Clark.
