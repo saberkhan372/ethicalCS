@@ -50,7 +50,7 @@ The following courses are intended to be offered year-long and meet twice a week
 
 The following course are semester-long and should be combined to create a year-long course.
 
-* Creative Coding: Can computers make art? Can they make art on purpose? By mistake? The answer is YES and it looks great! In this course we will use to code to remix existing art, make new pieces, and create pieces that are accidental or depend on the actions of an user. (Processing, HTML, CSS, JavaScript, p5.js)
+* Glitch and Generative Art: Can computers make art? Can they make art on purpose? By mistake? The answer is YES and it looks great! In this course we will use to code to remix existing art, make new pieces, and create pieces that are accidental or depend on the actions of an user. (Processing, HTML, CSS, JavaScript, p5.js)
 
 > “It’s such a great thing. I’ve always wanted to be Walt Disney. I’m gonna tell everyone to get one.” - Andy Warhol.
 
